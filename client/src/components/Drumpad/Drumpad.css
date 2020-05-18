@@ -1,0 +1,6 @@
+.drum-pad {
+  max-width: 55px;
+  min-heigh: 55px;
+  border: 2px solid black;
+  text-align: center;
+}

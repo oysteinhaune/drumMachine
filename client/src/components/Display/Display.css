@@ -1,0 +1,8 @@
+.display {
+  max-width: 100px;
+  max-height: 40px;
+  border: 2px solid black;
+  display: block;
+  text-align: center;
+  
+}
